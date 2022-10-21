@@ -2,6 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// 로또 번호 랜덤 출력
 
 void lotto(); 
 
@@ -32,3 +33,4 @@ void lotto() {
 	printf("\n");
 	return 0;
 }
+// 작은 수 부터 자동정렬 기능 추가
